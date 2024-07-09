@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang = "en">
+<head>
+    <meta charset = "UTF-8">
+    <meta name = "viewport" content = "width = device-width, initial-scale = 1.0">
+    <title>Memory Game</title>
+
+    <link rel = "stylesheet" href = "general.css">
+    <link rel = "stylesheet" href = "modal.css">    
+</head>
+<body>
+    <div class = "container">
+        <header>Memory Game</header>
+        <aside id = "level">
+            Level:
+        </aside>
+        <div class = "grid-container">
+            <div id = "grid"></div>
+        </div>
+        <div class = "win-loss"></div>
+        <div class = "progress"></div>
+        <button id="new-game">New Game</button>
+    </div>
+
+    <div id="gameModal" class="modal">
+        <div class="modal-content">
+          <h2 id="modalTitle"></h2>
+          <p id="modalMessage"></p>
+          <button id="modalClose">Close</button>
+        </div>
+    </div>
+
+    <script src="work5.js"></script>
+</body>
+</html>
