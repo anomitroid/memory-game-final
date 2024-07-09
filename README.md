@@ -40,7 +40,7 @@ To run this project on your local machine, follow these steps:
 
 11. Your file structure should now look like this:
  ```
- futuristic-memory-game/
+ memory-game/
  ├── node_modules/
  ├── public/
  │   ├── index.html
