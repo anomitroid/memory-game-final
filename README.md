@@ -32,7 +32,7 @@ To run this project on your local machine, follow these steps:
 7. Create a new file named `server.js` in the project root directory:
 8. Open `server.js` in your preferred text editor and paste the provided server code.
 9. Create a `public` folder in your project directory:
-10. 10. Move your HTML, CSS, and client-side JavaScript files into the `public` folder:
+10. Move your HTML, CSS, and client-side JavaScript files into the `public` folder:
  ```
  mv index.html general.css work4.js public/
  ```
