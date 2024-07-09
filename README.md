@@ -61,7 +61,7 @@ To run this project on your local machine, follow these steps:
 
 To start the game server:
 
-1. In the project directory, run: (type node server.js in the terminal)
+1. In the project directory, run: (type `node server.js` in the terminal)
 2. Open a web browser and go to `http://localhost:42111` (or the port specified in your console output).
 3. The game should now be running in your browser. Enjoy playing!
 
