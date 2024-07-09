@@ -28,7 +28,7 @@ To run this project on your local machine, follow these steps:
 3. Clone this repository to your local machine:
 4. Navigate to the project directory:
 5. Initialise a new Node.js project:
-6. Install the required dependencies: (`npm init`)
+6. Install the required dependencies: (`npm init -y` followed by `npm install`)
 7. Create a new file named `server.js` in the project root directory:
 8. Open `server.js` in your preferred text editor and paste the provided server code.
 9. Create a `public` folder in your project directory:
